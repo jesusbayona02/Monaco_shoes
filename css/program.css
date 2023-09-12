@@ -103,6 +103,10 @@ header a:hover{
     text-align: center;
     padding: 200px 12px;
 }
+#somos-proya1 .container{
+    text-align: center;
+    padding: 200px 12px;
+}
 #nuestros-programas{
 background-color: rgb(30,30,30);
 color: white;
@@ -159,6 +163,16 @@ border-radius: 20px;
     background-size: cover;
 
 }
+
+#mivideo {
+    height: 400px;
+    width: 200px;
+    
+
+
+
+}
+
 #caracteristicas .container{
     text-align: center;
     padding: 250px 12px;
